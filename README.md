@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/Bruk-CyberTech/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/Bruk-CyberTech/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Bruk-CyberTech/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
